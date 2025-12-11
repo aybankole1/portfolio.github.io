@@ -1,4 +1,4 @@
-# portfolio.github.io
+# portfolio
 🌟 Ayomide Bankole's Portfolio Website 
 
 This repository contains the complete source code for my personal portfolio website, designed to showcase my skills, projects, and professional experience.
